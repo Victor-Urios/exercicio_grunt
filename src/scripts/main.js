@@ -39,4 +39,5 @@ setInterval(function(){
     document.getElementById("digital-clock").innerHTML = currentTime;
     document.getElementById("data").innerHTML = data;
 }, 1000); // pra ele ficar ticando a cada 1 segundo ao invés de sair bugando o pc com refresh rate absurdamente rapido
-//tick abaixo de 1 segundo exato da biziu no funcionamento.a
+//tick abaixo de 1 segundo exato da biziu no funcionamento.
+//espero que tudo de certo
